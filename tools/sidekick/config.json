@@ -17,6 +17,12 @@
       "event": "experimentation"
     },
     {
+      "id": "review",
+      "title": "Review",
+      "environments": ["preview"],
+      "event": "review"
+    },
+    {
       "id": "aem-labs",
       "title": "AEM Labs",
       "environments": ["edit"],
